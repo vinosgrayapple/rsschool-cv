@@ -1,9 +1,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/vinosgrayapple/rsschool-cv/gh-pages/pngwing.com%20(4).png" align="center" height="200" >
 </p>
-<span style="display:block;text-align:center">
-  ![Serhii Komarychev](https://raw.githubusercontent.com/vinosgrayapple/rsschool-cv/gh-pages/pngwing.com%20(4).png)
-</span> 
 <!--- //![Serhii Komarychev](https://avatars.githubusercontent.com/u/14216389?s=460&u=71ce0d6e83d62ebc247453bddfab70f9ac54d753&v=4) --->
 
 ```js
