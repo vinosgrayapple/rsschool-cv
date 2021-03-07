@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/14216389" align="center" height="200" >
-</p>
 ***
 # Serhii Koamrychev
 ## This is an <h2> tag
