@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vinosgrayapple/rsschool-cv/gh-pages/pngwing.com%20(4).png" align="center" height="200" >
+  <img src="https://avatars.githubusercontent.com/u/14216389" align="center" height="200" >
 </p>
+# Serhii Koamrychev
 
 ```js
 if (!Math.trunc) { // if no such function
@@ -12,7 +13,3 @@ if (!Math.trunc) { // if no such function
   };
 }
 ```
-
-<p align="center">
-  <img src="https://github.com/waldyr/Sublime-Installer/blob/master/sublime_text.png?raw=true" height="250" alt="Sublime's custom image"/>
-</p>
