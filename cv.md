@@ -2,9 +2,9 @@
   <img src="https://avatars.githubusercontent.com/u/14216389" align="center" height="200" >
 </p>
 ***
-***Serhii Koamrychev***
-***
-
+# Serhii Koamrychev
+## This is an <h2> tag
+###### This is an <h6> tag
 
 ```js
 if (!Math.trunc) { // if no such function
