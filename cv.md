@@ -5,6 +5,12 @@
 [![https://www.linkedin.com/in/s-komarychev/](https://img.shields.io/badge/LinkedIn-s--komarychev-blue)](https://www.linkedin.com/in/s-komarychev/)
 [![https://github.com/vinosgrayapple](https://img.shields.io/badge/GitHub-vinosgrayapple-purple)](https://github.com/vinosgrayapple)
 
+## Skills
+***
+
+> JavaScript CSS HTML  
+> Git(GitHub), NPM, ESLint
+>
 ***
 ```js
 if (!Math.trunc) { // if no such function
@@ -16,6 +22,3 @@ if (!Math.trunc) { // if no such function
   };
 }
 ```
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/14216389" align="center" height="200" >
-</p>
