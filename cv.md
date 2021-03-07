@@ -1,5 +1,6 @@
+![Serhii Komarychev](https://avatars.githubusercontent.com/u/14216389)
 ***
-# Serhii Koamrychev
+# Serhii Komarychev
 ## This is an <h2> tag
 ###### This is an <h6> tag
 
@@ -13,3 +14,6 @@ if (!Math.trunc) { // if no such function
   };
 }
 ```
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/14216389" align="center" height="200" >
+</p>
