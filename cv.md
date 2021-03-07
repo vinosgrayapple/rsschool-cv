@@ -1,7 +1,7 @@
 ![Serhii Komarychev](https://avatars.githubusercontent.com/u/14216389)
 
 # Serhii Komarychev
-[![https://twitter.com/vinosgray](https://img.shields.io/twitter/url/https/twitter.com/vinosgray.svg?style=social&label=%40vinosgray)](https://twitter.com/bukotsunikki)
+[![https://twitter.com/vinosgray](https://img.shields.io/twitter/url/https/twitter.com/vinosgray.svg?style=social&label=%40vinosgray)](https://twitter.com/vinosgray)
 
 ```js
 if (!Math.trunc) { // if no such function
