@@ -1,7 +1,7 @@
 ![Serhii Komarychev](https://avatars.githubusercontent.com/u/14216389)
 
 # Serhii Komarychev
-[![https://twitter.com/vinosgray](https://img.shields.io/badge/twitter-vinosgray-green)](https://twitter.com/vinosgray)
+[![https://twitter.com/vinosgray](https://img.shields.io/badge/Twitter-vinosgray-green)](https://twitter.com/vinosgray)
 [![https://www.linkedin.com/in/s-komarychev/](https://img.shields.io/badge/LinkedIn-s--komarychev-blue)](https://www.linkedin.com/in/s-komarychev/)
 [![https://github.com/vinosgrayapple](https://img.shields.io/badge/GitHub-vinosgrayapple-purple)](https://github.com/vinosgrayapple)
 
