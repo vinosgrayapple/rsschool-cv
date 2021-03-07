@@ -1,8 +1,7 @@
 ![Serhii Komarychev](https://avatars.githubusercontent.com/u/14216389)
 
 # Serhii Komarychev
-## This is an <h2> tag
-###### This is an <h6> tag
+[![https://twitter.com/Vinosgray](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40bukotsunikki)](https://twitter.com/bukotsunikki)
 
 ```js
 if (!Math.trunc) { // if no such function
