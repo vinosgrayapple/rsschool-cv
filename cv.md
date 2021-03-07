@@ -1,7 +1,10 @@
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/14216389" align="center" height="200" >
 </p>
-# Serhii Koamrychev
+<p align="center">
+  ***Serhii Koamrychev***
+</p>
+
 
 ```js
 if (!Math.trunc) { // if no such function
