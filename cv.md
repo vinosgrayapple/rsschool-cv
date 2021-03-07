@@ -1,5 +1,5 @@
 ![Serhii Komarychev](https://avatars.githubusercontent.com/u/14216389)
-***
+
 # Serhii Komarychev
 ## This is an <h2> tag
 ###### This is an <h6> tag
