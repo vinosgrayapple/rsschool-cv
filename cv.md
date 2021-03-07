@@ -3,7 +3,7 @@
 # Serhii Komarychev
 [![https://twitter.com/vinosgray](https://img.shields.io/badge/twitter-vinosgray-green)](https://twitter.com/vinosgray)
 [![https://www.linkedin.com/in/s-komarychev/](https://img.shields.io/badge/LinkedIn-s--komarychev-blue)](https://www.linkedin.com/in/s-komarychev/)
-[![https://www.linkedin.com/in/s-komarychev/](https://img.shields.io/badge/LinkedIn-s--komarychev-blue)](https://www.linkedin.com/in/s-komarychev/)
+[![https://github.com/vinosgrayapple](https://img.shields.io/badge/GitHub-vinosgrayapple)](https://github.com/vinosgrayapple)
 
 ***
 ```js
