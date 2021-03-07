@@ -3,7 +3,9 @@
 # Serhii Komarychev
 [![https://twitter.com/vinosgray](https://img.shields.io/badge/twitter-vinosgray-green)](https://twitter.com/vinosgray)
 [![https://www.linkedin.com/in/s-komarychev/](https://img.shields.io/badge/LinkedIn-s--komarychev-blue)](https://www.linkedin.com/in/s-komarychev/)
+[![https://www.linkedin.com/in/s-komarychev/](https://img.shields.io/badge/LinkedIn-s--komarychev-blue)](https://www.linkedin.com/in/s-komarychev/)
 
+***
 ```js
 if (!Math.trunc) { // if no such function
   // implement it
