@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/vinosgrayapple/rsschool-cv/gh-pages/pngwing.com%20(4).png" align="center" height="200" >
 </p>
+
 ```js
 if (!Math.trunc) { // if no such function
   // implement it
@@ -11,6 +12,7 @@ if (!Math.trunc) { // if no such function
   };
 }
 ```
+
 <p align="center">
-  <img src="https://github.com/waldyr/Sublime-Installer/blob/master/sublime_text.png?raw=true" alt="Sublime's custom image"/>
+  <img src="https://github.com/waldyr/Sublime-Installer/blob/master/sublime_text.png?raw=true" height="250" alt="Sublime's custom image"/>
 </p>
