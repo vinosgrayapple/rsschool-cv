@@ -2,7 +2,7 @@
   <img src="https://avatars.githubusercontent.com/u/14216389" align="center" height="200" >
 </p>
 <p align="center">
-  ***Serhii Koamrychev***
+# Serhii Koamrychev
 </p>
 
 
