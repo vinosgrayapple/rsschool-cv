@@ -2,6 +2,7 @@
 
 # Serhii Komarychev
 [![https://twitter.com/vinosgray](https://img.shields.io/twitter/url/https/twitter.com/vinosgray.svg?style=social&label=%40vinosgray)](https://twitter.com/vinosgray)
+[![https://www.linkedin.com/in/s-komarychev/](https://img.shields.io/twitter/url/https/twitter.com/vinosgray.svg?style=social&label=%40vinosgray)](https://www.linkedin.com/in/s-komarychev/)
 
 ```js
 if (!Math.trunc) { // if no such function
